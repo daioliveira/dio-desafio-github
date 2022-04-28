@@ -1,0 +1,18 @@
+Git - software de controle de versão.
+
+Link para download: https://git-scm.com/downloads
+
+Link para comandos do Git: https://comandosgit.github.io/
+
+Lista de comandos no terminal windows 
+
+1. dir - listar repositórios 
+2. cls - limpar terminal
+3. tab - auto complete 
+4. echo - printa (escreve na tela)
+5. del - deleta arquivos
+6. rmdir - deleta repositórios 
+7. mkdir - criar diretórios 
+
+
+
